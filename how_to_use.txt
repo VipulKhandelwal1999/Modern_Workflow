@@ -3,3 +3,6 @@ node_modules/.bin/babel1 before.js -w -o after.js
 
 /*To directly convert index file to bundle*/
 npm run babel
+
+/*To bundle the code using webpack*/
+node_modules/.bin/webpack
