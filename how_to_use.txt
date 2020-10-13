@@ -1,0 +1,2 @@
+/*To convert before.js using babel and output to after.js*/
+node_modules/.bin/babel1 before.js -o after.js
